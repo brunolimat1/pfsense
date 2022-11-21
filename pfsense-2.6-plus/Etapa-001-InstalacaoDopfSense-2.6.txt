@@ -1,4 +1,4 @@
-Autor: Robson Vaamonde!
+Autor: Robson Vaamonde
 Procedimentos em TI: http://procedimentosemti.com.br
 Bora para Prática: http://boraparapratica.com.br
 Robson Vaamonde: http://vaamonde.com.br
@@ -52,13 +52,13 @@ Link de download do Oracle VirtualBOX: https://www.virtualbox.org/wiki/Downloads
 01. Ferramentas;
 		<Novo>
 02. Nome e Sistema Operacional:
-		Nome: pfSense
-		Pasta da Máquina: (deixar o padrão do sistema) 
+		Nome: lwbruno
+		Pasta da Máquina: F:\BrunoLima\pfSense 
 		Tipo: BSD
 		Versão: FreeBSD (64-bit)
 		<Próximo>
 03. Tamanho da memória:
-		Tamanho: 1024MB
+		Tamanho: 2048MB
 		<Próximo>
 04. Disco Rígido:
 		Criar um novo disco rígido virtual agora
@@ -78,10 +78,10 @@ Link de download do Oracle VirtualBOX: https://www.virtualbox.org/wiki/Downloads
 		Processador
 			Processadores: 02 CPUs
 			Recursos Estendidos: Habilitar PAE/NX
+			                     Habilitar VT-x/AMD-V Aninhado
 	Monitor
 		Tela
 			Memória de Vídeo: 128MB
-			Aceleração: Habilitar Aceleração 3D
 	Áudio
 		Habilitar Áudio: Desabilitar
 	Rede
