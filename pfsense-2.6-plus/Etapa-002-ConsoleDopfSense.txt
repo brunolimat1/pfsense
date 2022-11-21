@@ -68,7 +68,7 @@ Terceira etapa: Configuração do Endereço de Rede Local e DHCP Server
 	2) Set interface(s) IP address
 		Enter the number of the interface you wish to configure: 2 <Enter>
 		Enter the new LAN IPv4 address.
-			> 172.16.1.254 <Enter> (alterar conforme a sua necessidade)
+			> 172.16.16.254 <Enter> (alterar conforme a sua necessidade)
 		Enter the new LAN IPv4 subnet.
 			> 24 <Enter> (alterar conforme a sua necessidade)
 		For a WAN, enter the new LAN IPv4 upstream gateway address
@@ -77,8 +77,8 @@ Terceira etapa: Configuração do Endereço de Rede Local e DHCP Server
 		Enter the new LAN IPv6 address.
 			> <Enter>
 		Do you want to enable the DHCP server on LAN? (y/n): y <Enter> (habilitar somente se necessário)
-		Enter the start address of the IPv4 client address range: 172.16.1.100 <Enter> 
-		Enter the end address fo the IPv4 client address range: 172.16.1.150 <Enter>
+		Enter the start address of the IPv4 client address range: 172.16.16.100 <Enter> 
+		Enter the end address fo the IPv4 client address range: 172.16.16.200 <Enter>
 		Do you want to revert to HTTP as the WebConfigurator protocol? (y/n): y <Enter>	
 		Press <Enter> to continue.
 
